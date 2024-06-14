@@ -7,6 +7,6 @@ I love open source and making things that help ease peoples lives (and mine). I 
 **ESM only**
 I have made the move in all my projects to only support and use esm, and test all my code with ava. I feel that we should all make the change over to esm and pray to the gods that typescript, node, and ecma play nicely and fix the mess that is cjs/mjs.
 
-¯_(ツ)_/¯
+¯\_(ツ)_/¯
 
 snowytime
